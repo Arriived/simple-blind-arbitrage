@@ -1,0 +1,4 @@
+[
+  "function WETH() view returns (address)",
+  "function makeFlashLoan(address[] tokens, uint256[] amounts, bytes userData)"
+]
